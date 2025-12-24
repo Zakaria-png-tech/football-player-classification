@@ -24,11 +24,11 @@ The repository is organized into three main components:
 
 ## 📥 Installation
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Zakaria-png-tech/football_celebrity.git](https://github.com/Zakaria-png-tech/football_celebrity.git)
-   ```
+```bash
+ git clone [https://github.com/Zakaria-png-tech/football_celebrity.git](https://github.com/Zakaria-png-tech/football_celebrity.git)
+ ```
 
 2. Start the Flask Server:
-  ```bash
-   python server.py
- ```
+```bash
+python server.py
+```
